@@ -1,3 +1,4 @@
+https://colab.research.google.com/drive/1aLQmoL3Yu-UhQek108eJjTICwzU4Wpl6
 # Odev3_BayesTeoremi
 Bayes Teoremi ile ilgili örnek soru ve çözümü
 
