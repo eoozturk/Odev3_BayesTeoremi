@@ -1,16 +1,17 @@
 https://colab.research.google.com/drive/1aLQmoL3Yu-UhQek108eJjTICwzU4Wpl6
-# Odev3_BayesTeoremi
-Bayes Teoremi ile ilgili örnek soru ve çözümü
 
-Soru Kaynağı: http://www.baskent.edu.tr/~iserdem/dersler/258/Bolum2.pdf
+#### Odev3_BayesTeoremi
+Bayes Teoremi ile ilgili örnek soru ve çözümü,   [**Soru Kaynağı**](http://www.baskent.edu.tr/~iserdem/dersler/258/Bolum2.pdf)
 
-**Soru:**
+
+
+# Soru:
 
 Bir hava üssünde tehlike olduğu zaman alarm sisteminin çalışma olasılığı 0.99, tehlike olmadığında alarm sisteminin çalışmama olasılığı 0.98 ve herhangi bir anda tehlike olma olasılığı da 0.003’tür. 
 
 Hava üssündeki alarm çalıştığına göre, tehlike durumunun olma olasılığı nedir?
 
-**Çözüm:**
+# Çözüm:
 
 A: Alarm Sisteminin Çalışması,  A': Alarm Sisteminin ÇalışMAMAsı, 
 
@@ -24,7 +25,7 @@ Durum={Tehlike altında alarmın çalışması},   P(A|B)xP(B): 0.99x0.003=0.002
 
 Olasılık sonucu,    P(B|A)= P(A|B)xP(B) / P(A|B)xP(B)+P(A|B')xP(B')=0.12963771278917494
 
-**Açıklama:**
+# Açıklama:
 
 P(B|A)= P(BnA)/P(A)= P(A|B)xP(B)/P(A)
 
