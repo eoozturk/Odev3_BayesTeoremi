@@ -1,6 +1,7 @@
-                                https://colab.research.google.com/drive/1aLQmoL3Yu-UhQek108eJjTICwzU4Wpl6
+https://colab.research.google.com/drive/1aLQmoL3Yu-UhQek108eJjTICwzU4Wpl6
 # Odev3_BayesTeoremi
 Bayes Teoremi ile ilgili örnek soru ve çözümü
+
 Soru Kaynağı: http://www.baskent.edu.tr/~iserdem/dersler/258/Bolum2.pdf
 
 **Soru:**
