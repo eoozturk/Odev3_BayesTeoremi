@@ -1,0 +1,2 @@
+# BayesTeoremi
+Bayes Teoremi
