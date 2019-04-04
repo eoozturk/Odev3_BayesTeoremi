@@ -2,7 +2,7 @@
 ![CoLab](https://colab.research.google.com/assets/colab-badge.svg) [Link](https://colab.research.google.com/drive/1aLQmoL3Yu-UhQek108eJjTICwzU4Wpl6)
                      
 
-# BayesTeoremi
+# Bayes Teoremi
 Bayes Teoremi ile ilgili Örnek Soru ve Çözümü,  [**Soru Kaynağı**](http://www.baskent.edu.tr/~iserdem/dersler/258/Bolum2.pdf)
 
 ### Soru:
