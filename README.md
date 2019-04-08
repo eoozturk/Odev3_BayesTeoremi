@@ -15,17 +15,22 @@ Hava üssündeki alarm çalıştığına göre, tehlike durumunun olma olasılı
 
 ## Çözüm:
 
-A: Alarm Sisteminin Çalışması,  A': Alarm Sisteminin ÇalışMAMAsı, 
-
-B: Tehlike olması, B': Tehlike olMAMAsı
+A: Alarm Sisteminin Çalışması,  A': Alarm Sisteminin ÇalışMAMAsı,  B: Tehlike olması, B': Tehlike olMAMAsı
    
 P(B) = 0.003, P(B') = 0.997, P(A | B) = 0.99, P(A' | B') = 0.98, P(A | B') = 0.02
 
-Durum={Tehlike altında alarmın çalışması},   P(A|B)xP(B): 0.99x0.003=0.00297
 
-Örnek Uzay={Alarmın çalışması},   P(A|B)xP(B)+P(A|B')xP(B'): 0.99x0.003+0.02x0.997=0.02291
+Durum: Tehlike altında alarmın çalışması,   
 
-Olasılık sonucu,    P(B|A)= P(A|B)xP(B) / P(A|B)xP(B)+P(A|B')xP(B')=0.12963771278917494
+P(A|B)xP(B)= 0.99x0.003= 0.00297
+
+Örnek Uzay: Alarmın çalışması,
+
+P(A|B)xP(B)+P(A|B')xP(B')=  0.99x0.003+0.02x0.997= 0.02291
+
+Olasılık sonucu: Alarm çalıştığında tehlike olma olasılığı,    
+
+P(B|A)= P(A|B)xP(B) / P(A|B)xP(B)+P(A|B')xP(B')= 0.12963771278917494
 
 ## Açıklama:
 
