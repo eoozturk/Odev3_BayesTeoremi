@@ -4,7 +4,7 @@
 </a>
 </p>                   
 
-# Bayes Teorem
+# Bayes Teoremi
 Bayes Teoremi ile ilgili Örnek Soru ve Çözümü,  [**Soru Kaynağı**](http://www.baskent.edu.tr/~iserdem/dersler/258/Bolum2.pdf)
 
 ## Soru: Bayes Teoremi
